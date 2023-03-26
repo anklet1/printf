@@ -5,6 +5,7 @@
 #include <stdarg.h>
 #include <stdlib.h>
 #include <unistd.h>
+#define BUFF_SIZE 1024
 
 /* Flag Modifier Macros */
 #define PLUS 1
